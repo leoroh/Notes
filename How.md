@@ -5,3 +5,4 @@
     Snackbar.make(findViewById(android.R.id.content), "This is Simple Snackbar", Snackbar.LENGTH_SHORT).show()
   
   ```
+2. How to crack system design [Interview](https://github.com/weeeBox/mobile-system-design)
