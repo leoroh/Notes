@@ -1,3 +1,0 @@
-1. Common errors in android
-  i. java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.nttmeeting/com.example.nttmeeting.MainActivity}: 
-  android.os.NetworkOnMainThreadException doing retrofit `service.getData().execute()` call in main thread
